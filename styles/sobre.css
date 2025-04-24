@@ -1,0 +1,23 @@
+.container__sobre {
+    display: block;
+    text-align: center;
+    margin: 6em 35em;
+    font-family: var(--fonte-principal);
+}
+
+.container__texto-negrito {
+    font-size: 16px;
+    color: var(--vermelho-escuro);
+    font-weight: 600;
+}
+
+.container__titulo {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.container__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--gray);
+}

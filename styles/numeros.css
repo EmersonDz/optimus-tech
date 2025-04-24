@@ -1,0 +1,23 @@
+.topicos__numeros {
+    display: flex;
+    justify-content: center;
+    margin: 0 5em 6em 5em; 
+    font-family: var(--fonte-principal);
+    padding: 0 2em;
+}
+
+.topicos__divisoes {
+    padding: 0 5em 0 0;
+}
+
+.topicos__titulo {
+    color: var(--cinza-escuro);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.topicos__texto {
+    color: var(--gray);
+    font-size: 16px;
+    font-weight: 400;
+}

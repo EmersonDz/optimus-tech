@@ -1,0 +1,31 @@
+.veja {
+    display: block;
+    text-align: center;
+    margin: 0 6em 6em 6em;
+    background-color: var(--cor-de-fundo-2);
+    padding: 5em;
+}
+
+.veja__first {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vermelho-escuro);
+}
+
+.veja__titulo {
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+}
+
+.secundary__nome {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+}
+
+.secundary__texto {
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--gray);
+}
