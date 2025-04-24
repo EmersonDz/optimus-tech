@@ -28,7 +28,7 @@ O objetivo principal foi **praticar e consolidar os conhecimentos adquiridos**, 
 
 ## 📸 Layout (Figma)
 
-O design utilizado foi proposto no desafio 7DaysOfCode da Alura. Você pode acessá-lo [aqui]([[https://www.figma.com/](https://www.figma.com/design/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0-1&p=f&t=GDyS9wAhAVZGYfm7-0).
+O design utilizado foi proposto no desafio 7DaysOfCode da Alura. Você pode acessá-lo [neste link](https://www.figma.com/design/mm3MLozvUDGhDRTxSLlGL5/7daysOfCode-HTML-CSS?node-id=0-1&p=f&t=GDyS9wAhAVZGYfm7-0).
 
 ## 🚧 Status
 
